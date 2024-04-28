@@ -2,8 +2,14 @@ This is a post listing page, which shows text based posts.
 
 Used #posts and #users APIs from: https://jsonplaceholder.typicode.com/
 
+//click here to view application
+https://662dd7b5636a1d6f27b38ee4--resonant-blini-9025e6.netlify.app/
+
 // To run the project
+
 npm start
+
+
 
 ![Screenshot 2024-04-28 101659](https://github.com/allenbakki/incribeHub./assets/96569997/e6993edf-d8c8-434d-9814-17453f957db8)
 ![Screenshot 2024-04-27 234932](https://github.com/allenbakki/incribeHub./assets/96569997/abae4009-e825-4588-9a7d-f3f272a4d845)
